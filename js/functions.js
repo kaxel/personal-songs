@@ -13,11 +13,11 @@ Amplitude.init({
 			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1579413856/permanent-Friday-night_rtbdim.jpg"
 		},
 		{
-			"name": "Holland Park Road",
+			"name": "Georgia Rain",
 			"artist": "Krister Axel",
-			"album": "Arms Around the River",
-			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579414930/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_Holland_Park_Road_ht2cpq.mp3",
-			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1579413853/arms-around-the-river_mitt3p.jpg"
+			"album": "Swexico",
+			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579417915/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_Swexico_-_05_Georgia_Rain_ddh8z4.mp3",
+			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1556664506/swexico-cover-hires_fcmwrh.jpg"
 		},
 		{
 			"name": "Illuminate the Sky",
