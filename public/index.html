@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CHILLFILTR Dynamic playlist</title>
+
+    <!-- Include font -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i" rel="stylesheet">
+
+
+		<!-- Include Amplitude JS -->
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.0.3/dist/amplitude.js"></script>
+
+		<!-- Include Style Sheet -->
+    <link rel="stylesheet" type="text/css" href="css/app.css"/>
+  </head>
+  <body>
+    <div id="single-song-player">
+      <img data-amplitude-song-info="cover_art_url"/>
+      <div class="bottom-container">
+        <progress class="amplitude-song-played-progress" id="song-played-progress"></progress>
+
+        <div class="time-container">
+          <span class="current-time">
+            <span class="amplitude-current-minutes"></span>:<span class="amplitude-current-seconds"></span>
+          </span>
+          <span class="duration">
+            <span class="amplitude-duration-minutes"></span>:<span class="amplitude-duration-seconds"></span>
+          </span>
+        </div>
+
+        <div class="control-container">
+          <div id="prev-container">
+            <div class="amplitude-prev" id="previous"></div>
+          </div>
+
+          <div id="play-pause-container">
+            <div class="amplitude-play-pause" id="play-pause"></div>
+          </div>
+
+          <div id="next-container">
+            <div class="amplitude-next" id="next"></div>
+          </div>
+          <div class="meta-container">
+            <span data-amplitude-song-info="name" class="song-name"></span>
+            <span data-amplitude-song-info="artist"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+			Include UX functions JS
+		-->
+		<script type="text/javascript" src="js/functions.js"></script>
+  </body>
+</html>
