@@ -6,39 +6,39 @@ Amplitude.init({
     },
     "songs": [
 		{
-			"name": "Yesterday",
-			"artist": "Fontaine",
-			"album": "",
-			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/vc_auto/v1562049190/chillfiltr%20mp3/Fontaine_Yesterday_opuf42.mp3",
-			"cover_art_url": "https://chillfiltr.com/content/images/size/w2000/2019/07/36335980_10214437544345127_5235113402048708608_n.jpg"
+			"name": "East of Hollywood",
+			"artist": "Krister Axel",
+			"album": "Permanent Friday Night",
+			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579415068/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_East_of_Hollywood_hiqp16.mp3",
+			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1579413856/permanent-Friday-night_rtbdim.jpg"
 		},
 		{
-			"name": "Young Fools",
-			"artist": "Small Million",
-			"album": "",
-			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/vc_auto/v1562136114/chillfiltr%20mp3/03_Young_Fools_mmolfh.mp3",
-			"cover_art_url": "https://chillfiltr.com/content/images/size/w2000/2019/07/small-millions.jpg"
+			"name": "Holland Park Road",
+			"artist": "Krister Axel",
+			"album": "Arms Around the River",
+			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579414930/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_Holland_Park_Road_ht2cpq.mp3",
+			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1579413853/arms-around-the-river_mitt3p.jpg"
 		},
 		{
-			"name": "Landslide",
-			"artist": "The king heat ensemble",
-			"album": "",
-			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/vc_auto/v1563044999/chillfiltr%20mp3/1547214741908_f0dtsq.mp3",
-			"cover_art_url": "https://chillfiltr.com/content/images/size/w2000/2019/07/1547814787489.jpg"
+			"name": "Illuminate the Sky",
+			"artist": "Krister Axel",
+			"album": "Swexico",
+			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579414950/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_Swexico_-_02_Illuminate_The_Sky_lwvkao.mp3",
+			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1556664506/swexico-cover-hires_fcmwrh.jpg"
 		},
 		{
-			"name": "Happier Now",
-			"artist": "Luke Enyeart",
-			"album": "",
-			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/vc_auto/v1563041775/chillfiltr%20mp3/ref_6_Happier_Now_dro7qx.mp3",
-			"cover_art_url": "https://chillfiltr.com/content/images/size/w2000/2019/07/IMG_0260-copy.jpg"
+			"name": "I'm the Gun",
+			"artist": "Krister Axel",
+			"album": "At The Hotel Cafe in Hollywood (Live)",
+			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579414433/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_I_m_The_Gun_-_live_ab0bnm.mp3",
+			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1579413995/a0587439013_10_yzaypl.jpg"
 		},
 		{
-			"name": "Destiny",
-			"artist": "Copilot",
-			"album": "",
-			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/vc_auto/v1563206779/chillfiltr%20mp3/1551763215061_281_29_bou4ko.mp3",
-			"cover_art_url": "https://chillfiltr.com/content/images/size/w2000/2019/07/destiny-copy.jpg"
+			"name": "All For You",
+			"artist": "Krister Axel",
+			"album": "Sky Meet Sea",
+			"url": "https://res.cloudinary.com/ashland-io-llc/video/upload/v1579414602/old%20masters/top%205%20for%20steve%20berlin/Krister_Axel_-_All_for_You_kaxgmj.mp3",
+			"cover_art_url": "https://res.cloudinary.com/ashland-io-llc/image/upload/v1579414279/sky-meet-sea_httcy2.jpg"
 		}
     ],
 	shuffle_on: true
